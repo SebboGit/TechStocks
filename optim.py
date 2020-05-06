@@ -1,5 +1,7 @@
 import random
-import cvxopt
+import cvxopt as opt
+import numpy as np
+import pandas as pd
 from cvxopt import blas, solvers
 
 
