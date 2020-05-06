@@ -65,3 +65,4 @@ def optimal_portfolio(quarter_returns):
     # CALCULATE THE OPTIMAL PORTFOLIO
     wt = solvers.qp(opt.matrix(x1 * S), -pbar, G, h, A, b)['x']
     return np.asarray(wt), quarter_returns, risks
+
