@@ -1,4 +1,4 @@
-# Stocks Analysis with Effective Frontier Optimization
+# Stocks Analysis with Efficient Frontier Optimization
 > Visualized with Matplotlib, data from Yahoo Finance
 
 ### Setup
